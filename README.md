@@ -217,9 +217,10 @@ Check out the SQL Analysis of E-Commerce Dataset
 
 Skills:
 
-SQL
-Power BI
-Microsoft Excel
-Data Analysis & Visualization
-Data Cleaning
+1. SQL
+2. Power BI
+3. Microsoft Excel
+4. Data Analysis & Visualization
+5. Data Cleaning
+   
 ⭐ If You Found This Useful Consider starring ⭐ the repository to support the project.
