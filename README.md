@@ -173,7 +173,7 @@ DAX – Measures and calculated columns
 
 📁 Dataset
 --
-Brazilian E-Commerce Public Dataset (Olist)
+Brazilian E-Commerce Public Dataset (Olist) - [![Download Dataset](https://img.shields.io/badge/Dataset-Download-black)](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 
 Includes:
 --
@@ -206,6 +206,10 @@ Using this dashboard, the company can:
 4. Optimize payment strategies
 5. Improve customer satisfaction
 6. Reduce negative reviews and operational issues
+
+Check out the SQL Analysis of E-Commerce Dataset
+--
+[![Download SQL Analysis](https://img.shields.io/badge/E_commerce_SQL_Analysis-Download-black)](https://github.com/Nikhil-Sagar29/E_Commerce_Data_Analysis/tree/main)
 
 👤 Author Nikhil Sagar
 -- 
